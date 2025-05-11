@@ -1,4 +1,4 @@
- Hospital Management System
+# Hospital Management System
 
 ## Overview
 The Hospital Management System is a web application designed to manage patient records efficiently. It allows authorized users to register new patients, view existing records, and perform basic CRUD operations. The application is built using PHP and MySQL.
@@ -49,3 +49,6 @@ hospital-management
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
+
+## License
+This project is open-source and available under the MIT License.
